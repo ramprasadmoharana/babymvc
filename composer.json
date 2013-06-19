@@ -9,7 +9,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-	"gedmo/doctrine-extensions": "2.3.*@dev"
+	
     },
     "minimum-stability": "dev"
 }
