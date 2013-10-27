@@ -1,6 +1,6 @@
 <?php
 
 
-echo "hello";
+var_dump("hi");
 
 ?>
