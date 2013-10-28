@@ -1,5 +1,7 @@
 <?php
 
-echo "verson 3";
+
+print("abcd");
+
 
 ?>
